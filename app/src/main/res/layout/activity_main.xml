@@ -12,7 +12,7 @@
         android:layout_marginTop="16dp"
         android:textAllCaps="true"
         android:text="From"
-        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"/>
 
@@ -31,7 +31,7 @@
         android:layout_marginTop="16dp"
         android:textAllCaps="true"
         android:text="To"
-        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
         app:layout_constraintTop_toBottomOf="@id/date_fromEdt"
         app:layout_constraintStart_toStartOf="parent"/>
 
